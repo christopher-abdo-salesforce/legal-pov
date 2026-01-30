@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Strategic_Themes__c</fullName>
+    <label>Strategic Themes</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>true</sorted>
+            <value>
+                <fullName>Biofuels operations</fullName>
+                <default>false</default>
+                <label>Biofuels operations</label>
+            </value>
+            <value>
+                <fullName>Brazil expansion</fullName>
+                <default>false</default>
+                <label>Brazil expansion</label>
+            </value>
+            <value>
+                <fullName>Carbon offsets</fullName>
+                <default>false</default>
+                <label>Carbon offsets</label>
+            </value>
+            <value>
+                <fullName>Cross-border investment</fullName>
+                <default>false</default>
+                <label>Cross-border investment</label>
+            </value>
+            <value>
+                <fullName>Energy transition</fullName>
+                <default>false</default>
+                <label>Energy transition</label>
+            </value>
+            <value>
+                <fullName>Environmental compliance</fullName>
+                <default>false</default>
+                <label>Environmental compliance</label>
+            </value>
+            <value>
+                <fullName>Regulatory licensing</fullName>
+                <default>false</default>
+                <label>Regulatory licensing</label>
+            </value>
+            <value>
+                <fullName>Sustainability initiatives</fullName>
+                <default>false</default>
+                <label>Sustainability initiatives</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

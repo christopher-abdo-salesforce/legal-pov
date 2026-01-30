@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Practice_Area__c</fullName>
+    <label>Practice Area</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>true</sorted>
+            <value>
+                <fullName>Arbitration</fullName>
+                <default>false</default>
+                <label>Arbitration</label>
+            </value>
+            <value>
+                <fullName>Banking and Finance</fullName>
+                <default>false</default>
+                <label>Banking and Finance</label>
+            </value>
+            <value>
+                <fullName>Capital Markets</fullName>
+                <default>false</default>
+                <label>Capital Markets</label>
+            </value>
+            <value>
+                <fullName>Carbon Credits</fullName>
+                <default>false</default>
+                <label>Carbon Credits</label>
+            </value>
+            <value>
+                <fullName>Competition and Antitrust</fullName>
+                <default>false</default>
+                <label>Competition and Antitrust</label>
+            </value>
+            <value>
+                <fullName>Corporate</fullName>
+                <default>false</default>
+                <label>Corporate</label>
+            </value>
+            <value>
+                <fullName>Corporate Governance</fullName>
+                <default>false</default>
+                <label>Corporate Governance</label>
+            </value>
+            <value>
+                <fullName>Cross-Border Transactions</fullName>
+                <default>false</default>
+                <label>Cross-Border Transactions</label>
+            </value>
+            <value>
+                <fullName>Employment and Labor</fullName>
+                <default>false</default>
+                <label>Employment and Labor</label>
+            </value>
+            <value>
+                <fullName>Energy Practice</fullName>
+                <default>false</default>
+                <label>Energy Practice</label>
+            </value>
+            <value>
+                <fullName>Environmental Compliance</fullName>
+                <default>false</default>
+                <label>Environmental Compliance</label>
+            </value>
+            <value>
+                <fullName>Environment and Natural Resources</fullName>
+                <default>false</default>
+                <label>Environment and Natural Resources</label>
+            </value>
+            <value>
+                <fullName>Global Compliance and Investigations</fullName>
+                <default>false</default>
+                <label>Global Compliance and Investigations</label>
+            </value>
+            <value>
+                <fullName>Health Care Practice</fullName>
+                <default>false</default>
+                <label>Health Care Practice</label>
+            </value>
+            <value>
+                <fullName>Immigration</fullName>
+                <default>false</default>
+                <label>Immigration</label>
+            </value>
+            <value>
+                <fullName>Insurance Practice</fullName>
+                <default>false</default>
+                <label>Insurance Practice</label>
+            </value>
+            <value>
+                <fullName>Intellectual Property and Technology</fullName>
+                <default>false</default>
+                <label>Intellectual Property and Technology</label>
+            </value>
+            <value>
+                <fullName>Life Sciences Practice</fullName>
+                <default>false</default>
+                <label>Life Sciences Practice</label>
+            </value>
+            <value>
+                <fullName>Litigation and Dispute Resolution</fullName>
+                <default>false</default>
+                <label>Litigation and Dispute Resolution</label>
+            </value>
+            <value>
+                <fullName>Mergers and Acquisitions</fullName>
+                <default>false</default>
+                <label>Mergers and Acquisitions</label>
+            </value>
+            <value>
+                <fullName>Oil &amp; Gas</fullName>
+                <default>false</default>
+                <label>Oil &amp; Gas</label>
+            </value>
+            <value>
+                <fullName>Pensions, Benefits and Executive Compensation</fullName>
+                <default>false</default>
+                <label>Pensions, Benefits and Executive Compensation</label>
+            </value>
+            <value>
+                <fullName>Privacy and Cybersecurity</fullName>
+                <default>false</default>
+                <label>Privacy and Cybersecurity</label>
+            </value>
+            <value>
+                <fullName>Private Equity Practice</fullName>
+                <default>false</default>
+                <label>Private Equity Practice</label>
+            </value>
+            <value>
+                <fullName>Public International Law</fullName>
+                <default>false</default>
+                <label>Public International Law</label>
+            </value>
+            <value>
+                <fullName>Public Law</fullName>
+                <default>false</default>
+                <label>Public Law</label>
+            </value>
+            <value>
+                <fullName>Public Policy and Regulation</fullName>
+                <default>false</default>
+                <label>Public Policy and Regulation</label>
+            </value>
+            <value>
+                <fullName>Real Estate</fullName>
+                <default>false</default>
+                <label>Real Estate</label>
+            </value>
+            <value>
+                <fullName>Regulatory Licensing</fullName>
+                <default>false</default>
+                <label>Regulatory Licensing</label>
+            </value>
+            <value>
+                <fullName>Renewable Energy</fullName>
+                <default>false</default>
+                <label>Renewable Energy</label>
+            </value>
+            <value>
+                <fullName>Restructuring, Insolvency and Bankruptcy</fullName>
+                <default>false</default>
+                <label>Restructuring, Insolvency and Bankruptcy</label>
+            </value>
+            <value>
+                <fullName>Securities and Corporate Finance</fullName>
+                <default>false</default>
+                <label>Securities and Corporate Finance</label>
+            </value>
+            <value>
+                <fullName>Sustainability</fullName>
+                <default>false</default>
+                <label>Sustainability</label>
+            </value>
+            <value>
+                <fullName>Tax</fullName>
+                <default>false</default>
+                <label>Tax</label>
+            </value>
+            <value>
+                <fullName>Transportation Practice</fullName>
+                <default>false</default>
+                <label>Transportation Practice</label>
+            </value>
+            <value>
+                <fullName>Trusts, Estates and Wealth Preservation</fullName>
+                <default>false</default>
+                <label>Trusts, Estates and Wealth Preservation</label>
+            </value>
+            <value>
+                <fullName>White Collar and Government Investigations</fullName>
+                <default>false</default>
+                <label>White Collar and Government Investigations</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

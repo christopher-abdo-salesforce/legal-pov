@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Transaction_Type__c</fullName>
+    <label>Transaction Type</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>true</sorted>
+            <value>
+                <fullName>Acquisition</fullName>
+                <default>false</default>
+                <label>Acquisition</label>
+            </value>
+            <value>
+                <fullName>Compliance Review</fullName>
+                <default>false</default>
+                <label>Compliance Review</label>
+            </value>
+            <value>
+                <fullName>Divestiture</fullName>
+                <default>false</default>
+                <label>Divestiture</label>
+            </value>
+            <value>
+                <fullName>Expansion</fullName>
+                <default>false</default>
+                <label>Expansion</label>
+            </value>
+            <value>
+                <fullName>Investment</fullName>
+                <default>false</default>
+                <label>Investment</label>
+            </value>
+            <value>
+                <fullName>Joint Venture</fullName>
+                <default>false</default>
+                <label>Joint Venture</label>
+            </value>
+            <value>
+                <fullName>Licensing</fullName>
+                <default>false</default>
+                <label>Licensing</label>
+            </value>
+            <value>
+                <fullName>Regulatory Filing</fullName>
+                <default>false</default>
+                <label>Regulatory Filing</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
